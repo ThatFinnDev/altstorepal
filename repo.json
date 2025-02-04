@@ -6,7 +6,7 @@
   "tintColor" : "A13700",
   "sourceURL" : "https://altstorepal.fullcodes.thatfinn.dev/repo.json",
   "iconURL" : "https://altstorepal.fullcodes.thatfinn.dev/icon/.png",
-  "website" : null,
+  "website" : "https://fullcodes.thatfinn.dev/",
   "news" : [ ],
   "featuredApps" : [ "at.thatfinn.quixx" ],
   "apps" : [ {
