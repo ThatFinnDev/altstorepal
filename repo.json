@@ -52,7 +52,7 @@
       "height" : 1080
     } ],
     "appPermissions" : {
-      "entitlements" : [ "get-task-allow" ],
+      "entitlements" : [ ],
       "privacy" : {
         "NSCameraUsageDescription" : "Quixx doesn't use the camera, this desc is required because the game was made in Godot 3",
         "NSMicrophoneUsageDescription" : "Quixx doesn't use the microphone, this desc is required because the game was made in Godot 3",
