@@ -8,7 +8,7 @@
   "iconURL" : "https://altstorepal.fullcodes.thatfinn.dev/icon/.png",
   "website" : "https://fullcodes.thatfinn.dev/",
   "news" : [ ],
-  "featuredApps" : [ "at.thatfinn.quixx" ],
+  "featuredApps" : [ "at.thatfinn.quixx", "at.thatfinn.tubeball" ],
   "apps" : [ {
     "name" : "Quixx",
     "bundleIdentifier" : "at.thatfinn.quixx",
@@ -18,6 +18,7 @@
     "website" : "https://quixx.fullcodes.thatfinn.dev",
     "versions" : [ {
       "version" : "1.4.7",
+      "buildVersion" : "1.4.7",
       "date" : "2024-08-11",
       "localizedDescription" : "Bug fixes.\nSource: https://github.com/ThatFinnDev/Quixx\nBug tracker: https://github.com/ThatFinnDev/Quixx/issues",
       "subtitle" : "Sheets for the main game",
@@ -37,6 +38,32 @@
         "NSMicrophoneUsageDescription" : "Quixx doesn't use the microphone, this desc is required because the game was made in Godot 3",
         "NSPhotoLibraryUsageDescription" : "Quixx doesn't use the photo library, this desc is required because the game was made in Godot 3"
       }
+    }
+  }, {
+    "name" : "TubeBall",
+    "bundleIdentifier" : "at.thatfinn.tubeball",
+    "developerName" : "ThatFinn",
+    "subtitle" : "A fun game where you have to guide a ball",
+    "downloadURL" : "https://altstorepal.fullcodes.thatfinn.dev/ipa/tubeball/26e50dff-2759-4d96-a676-9db71ec7a7d6/",
+    "website" : "https://tubeball.fullcodes.thatfinn.dev",
+    "versions" : [ {
+      "version" : "0.1.6",
+      "buildVersion" : "0",
+      "date" : "2024-04-09",
+      "localizedDescription" : "Fixed a performance issue\\nFixed obstacle inconsistancy\\nAdded more customization\\nFixed a gameplay bug\nSource: https://github.com/ThatFinnDev/TubeBall\nBug tracker: https://github.com/ThatFinnDev/TubeBall/issues",
+      "subtitle" : "A fun game where you have to guide a ball",
+      "downloadURL" : "https://altstorepal.fullcodes.thatfinn.dev/ipa/tubeball/26e50dff-2759-4d96-a676-9db71ec7a7d6/",
+      "size" : 17640283
+    } ],
+    "marketplaceID" : "6741385206",
+    "localizedDescription" : "You have to guide the ball through the tube and avoid the obstacles and collect coins. You can buy different appearances for the tube with the coins you collected. There are even different difficulty levels!",
+    "iconURL" : "https://altstorepal.fullcodes.thatfinn.dev/icon/tubeball.png",
+    "tintColor" : "0A5CE4",
+    "category" : "games",
+    "screenshotURLs" : [ "https://altstorepal.fullcodes.thatfinn.dev/screenshot/tubeball/0.png", "https://altstorepal.fullcodes.thatfinn.dev/screenshot/tubeball/1.png", "https://altstorepal.fullcodes.thatfinn.dev/screenshot/tubeball/2.png", "https://altstorepal.fullcodes.thatfinn.dev/screenshot/tubeball/3.png", "https://altstorepal.fullcodes.thatfinn.dev/screenshot/tubeball/4.png", "https://altstorepal.fullcodes.thatfinn.dev/screenshot/tubeball/5.png", "https://altstorepal.fullcodes.thatfinn.dev/screenshot/tubeball/6.png" ],
+    "appPermissions" : {
+      "entitlements" : [ ],
+      "privacy" : { }
     }
   } ]
 }
