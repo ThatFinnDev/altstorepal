@@ -1,0 +1,42 @@
+{
+  "name" : "FullCodes Apps (PAL)",
+  "subtitle" : "FullCodes Official AltStorePAL source.",
+  "description" : "Welcome to the FullCodes source! Here you can find all apps that are available on iOS and iPadOS!",
+  "identifier" : "at.fullcodes.appsource.altstorepal",
+  "tintColor" : "A13700",
+  "sourceURL" : "<%REPLACEWITHSOURCEURL%>",
+  "iconURL" : "https://altstorepal.fullcodes.thatfinn.dev/icon/.png",
+  "website" : null,
+  "news" : [ ],
+  "featuredApps" : [ "at.thatfinn.quixx" ],
+  "apps" : [ {
+    "name" : "Quixx",
+    "bundleIdentifier" : "at.thatfinn.quixx",
+    "developerName" : "ThatFinn",
+    "subtitle" : "Sheets for the main game",
+    "downloadURL" : "https://altstorepal.fullcodes.thatfinn.dev/ipa/quixx/a10a3bdb-a401-480a-b69d-850a1c96e84d/",
+    "website" : "https://quixx.fullcodes.thatfinn.dev",
+    "versions" : [ {
+      "version" : "1.4.7",
+      "date" : "2024-02-28",
+      "localizedDescription" : "Bug fixes.\nSource: https://github.com/ThatFinnDev/Quixx\nBug tracker: https://github.com/ThatFinnDev/Quixx/issues",
+      "subtitle" : "Sheets for the main game",
+      "downloadURL" : "https://altstorepal.fullcodes.thatfinn.dev/ipa/quixx/a10a3bdb-a401-480a-b69d-850a1c96e84d/",
+      "size" : 17640283
+    } ],
+    "marketplaceID" : "6741363877",
+    "localizedDescription" : "Sheets for the game",
+    "iconURL" : "https://altstorepal.fullcodes.thatfinn.dev/icon/quixx.png",
+    "tintColor" : "E81D0B",
+    "category" : "games",
+    "screenshotURLs" : [ "https://altstorepal.fullcodes.thatfinn.dev/screenshot/quixx/0.png", "https://altstorepal.fullcodes.thatfinn.dev/screenshot/quixx/1.png", "https://altstorepal.fullcodes.thatfinn.dev/screenshot/quixx/2.png", "https://altstorepal.fullcodes.thatfinn.dev/screenshot/quixx/3.png", "https://altstorepal.fullcodes.thatfinn.dev/screenshot/quixx/4.png" ],
+    "appPermissions" : {
+      "entitlements" : [ "get-task-allow" ],
+      "privacy" : {
+        "NSCameraUsageDescription" : "Quixx doesn't use the camera, this desc is required because the game was made in Godot 3",
+        "NSMicrophoneUsageDescription" : "Quixx doesn't use the microphone, this desc is required because the game was made in Godot 3",
+        "NSPhotoLibraryUsageDescription" : "Quixx doesn't use the photo library, this desc is required because the game was made in Godot 3"
+      }
+    }
+  } ]
+}
