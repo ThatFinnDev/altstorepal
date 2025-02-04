@@ -1,6 +1,6 @@
 {
   "name" : "FullCodes Apps (PAL)",
-  "subtitle" : "FullCodes Official AltStorePAL source.",
+  "subtitle" : "FullCodes Official AltStore PAL source.",
   "description" : "Welcome to the FullCodes source! Here you can find all apps that are available on iOS and iPadOS!",
   "identifier" : "at.fullcodes.appsource.altstorepal",
   "tintColor" : "A13700",
