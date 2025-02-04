@@ -4,7 +4,7 @@
   "description" : "Welcome to the FullCodes source! Here you can find all apps that are available on iOS and iPadOS!",
   "identifier" : "at.fullcodes.appsource.altstorepal",
   "tintColor" : "A13700",
-  "sourceURL" : "<%REPLACEWITHSOURCEURL%>",
+  "sourceURL" : "https://altstorepal.fullcodes.thatfinn.dev/repo.json",
   "iconURL" : "https://altstorepal.fullcodes.thatfinn.dev/icon/.png",
   "website" : null,
   "news" : [ ],
