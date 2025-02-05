@@ -18,7 +18,7 @@
     "website" : "https://quixx.fullcodes.thatfinn.dev",
     "versions" : [ {
       "version" : "1.4.7",
-      "buildVersion" : "1.4.7",
+      "buildVersion" : "3",
       "date" : "2024-08-11T10:07:45+02:00",
       "localizedDescription" : "Bug fixes.\nSource: https://github.com/ThatFinnDev/Quixx\nBug tracker: https://github.com/ThatFinnDev/Quixx/issues",
       "subtitle" : "Sheets for the main game",
